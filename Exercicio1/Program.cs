@@ -19,7 +19,7 @@ namespace Exercicio1
             double media = 53.234567;
 
             Console.WriteLine("Produto:");
-            Console.Write(produto1, ", cujo preço é R$ ");
+            Console.Write(produto1);
             Console.Write(", cujo preço é R$ ");
             Console.WriteLine(preco1.ToString("F2"));
             Console.Write(produto2);
