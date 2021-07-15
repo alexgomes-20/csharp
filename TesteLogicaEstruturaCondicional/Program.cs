@@ -21,6 +21,12 @@ namespace TesteLogicaEstruturaCondicional
             
             
             Console.WriteLine("qual o seu pedido ?" );
+            Console.WriteLine(" Digite o cdigo do seu lanche");
+            Console.WriteLine("(1) cachorro quente ");
+            Console.WriteLine("(2) X-Salada " );
+            Console.WriteLine("(3) X-Bacon " );
+            Console.WriteLine("(4) Torrada Simples " );
+            Console.WriteLine("(5) Refrigerante");
             int c = int.Parse(Console.ReadLine());
 
             if (c == cod1)
@@ -85,5 +91,9 @@ namespace TesteLogicaEstruturaCondicional
 
         }
 
-            }
+        private static string ToString(string v)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }

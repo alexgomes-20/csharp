@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeogica", "Testeogica.csproj", "{B335A66A-9800-4264-A927-F5EC9CCF2BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B335A66A-9800-4264-A927-F5EC9CCF2BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B335A66A-9800-4264-A927-F5EC9CCF2BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B335A66A-9800-4264-A927-F5EC9CCF2BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B335A66A-9800-4264-A927-F5EC9CCF2BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACBF587-E3BA-45A2-92B6-B52F4D86E95C}
+	EndGlobalSection
+EndGlobal
